@@ -1,7 +1,7 @@
  
 ### 👋 Hi, I’m Kshitij Mohanka
 
-I am an IT student completing my Final semester of Bachelor's degree. I love developing websites and solving tricky problems. I have previously done internships and have gained a good exposure as a developer and a software engineer.
+I am an IT student completing my final semester of Bachelor's degree. I love developing websites and solving tricky problems. I have previously done internships and have gained a good exposure as a developer and a software engineer.
 - Currently I am working as a Software engineer Intern.
 
 #### My Interests Include:
