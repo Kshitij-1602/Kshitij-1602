@@ -1,11 +1,11 @@
  
 ### 👋 Hi, I’m Kshitij Mohanka
 
-I am an IT student completing my final semester of Bachelor's degree. I love developing websites and solving tricky problems. I have previously done internships and have gained a good exposure as a developer and a software engineer.
-- Currently I am working as a Software engineer Intern.
+I am a Software Engineer at Oracle Cerner. I love developing websites and solving tricky problems. I have previously done internships and have gained a good exposure as a developer and a software engineer.
+- Currently I am working as a Software engineer .
 
 #### My Interests Include:
-- Coding and solving DSA problems (C++).
+- Coding and solving DSA problems (C++,Python).
 - Developing websites.
 - Working on projects that are unique and different.
 
