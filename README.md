@@ -1,8 +1,12 @@
  
-### 👋 Hi, I’m Kshitij Mohanka
+###  Hi there! 👋 
 
-I am a Software Engineer at Oracle Cerner. I love developing websites and solving tricky problems. I have previously done internships and have gained a good exposure as a developer and a software engineer.
-- Currently I am working as a Software engineer .
+## 🚀 About Me
+
+🎓 I am a Kshitij Mohanka, a Software Engineer at Oracle Cerner. I love developing websites and solving tricky problems. 
+
+ I have previously done internships and have gained a good exposure as a developer and a software engineer.
+-  👨‍💻Currently I am working as a Software engineer .
 
 #### My Interests Include:
 - Coding and solving DSA problems (C++,Python).
@@ -13,6 +17,8 @@ I am a Software Engineer at Oracle Cerner. I love developing websites and solvin
 - Learning new tech stacks.
 - Collaborating and working on different projects.
 - Internships that force me to think out of the box.
+
+### 🛠️ Skills:
 
 <code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
