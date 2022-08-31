@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-🎓 I am a Kshitij Mohanka, a Software Engineer at Oracle Cerner. I love developing websites and solving tricky problems. 
+🎓 I am Kshitij Mohanka, a Software Engineer at Oracle Cerner. I love developing websites and solving tricky problems. 
 
 -  👨‍💻 Currently I am working as a Software engineer .
 
@@ -15,7 +15,7 @@
 #### 🌱 I am open to:
 - Learning new tech stacks.
 - Collaborating and working on different projects.
-- Internships that force me to think out of the box.
+- Work that forces me to think out of the box.
 
 ## 🛠️ Skills
 
